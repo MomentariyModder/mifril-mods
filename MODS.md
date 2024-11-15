@@ -1,22 +1,28 @@
-# Список модов (1.7)
+# Список модов (1.8)
 
 - AppleSkin
 - Architectury
+- Awesome dungeon
+- Awesome dungeon edition ocean
+- Awesome dungeon nether
+- Awesome dungeon the end
 - Born in Chaos 
 - Call of Yucatán
 - Carry On
-- Cold Sweat
 - Controllable
 - Corail Woodcutter
 - CorgiLib
 - CosmeticArmorReworked
+- Creeper Overhaul
 - Curios API
 - CustomSkinLoader
 - Embeddium
 - Emotecraft
+- Enderman Overhaul
 - Enhanced Celestials
 - Expanded Storage
 - Farmer's Delight
+- FarmersStructures
 - Framed Compacting Drawers
 - Framework
 - GeckoLib 4
@@ -27,6 +33,7 @@
 - John Mod Reborn
 - Journeymap
 - Just Enough Items
+- Library ferret
 - Moonlight Library
 - Moving Elevators
 - Mowzie's Mobs
@@ -36,6 +43,8 @@
 - Player Animator
 - Polymorph
 - Reeves Furniture
+- Resourceful Lib
+- Resourcefulconfig
 - Right Click, Get Crops
 - Serene Seasons
 - Sit
@@ -54,5 +63,6 @@
 - U Team Core
 - Unusual End
 - Useful Backpacks
+- Variants & Ventures
 - WI Zoom
 - Wildfire's Female Gender Mod
