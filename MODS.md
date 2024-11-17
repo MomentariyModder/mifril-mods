@@ -1,4 +1,4 @@
-# Список модов (1.8)
+# Список модов (1.8.1)
 
 - AppleSkin
 - Architectury
@@ -6,6 +6,7 @@
 - Awesome dungeon edition ocean
 - Awesome dungeon nether
 - Awesome dungeon the end
+- Bookshelf
 - Born in Chaos 
 - Call of Yucatán
 - Carry On
@@ -18,6 +19,7 @@
 - CustomSkinLoader
 - Embeddium
 - Emotecraft
+- EnchantmentDescriptions
 - Enderman Overhaul
 - Enhanced Celestials
 - Expanded Storage
@@ -37,6 +39,7 @@
 - Moonlight Library
 - Moving Elevators
 - Mowzie's Mobs
+- ObsidianUI
 - Panda's Falling Tree's
 - PandaLib
 - Paraglider
@@ -46,9 +49,10 @@
 - Resourceful Lib
 - Resourcefulconfig
 - Right Click, Get Crops
+- RyoamicLights
 - Serene Seasons
+- Simple Voice Chat
 - Sit
-- Sodium Dynamic Lights
 - Sophisticated Backpacks
 - Sophisticated Core
 - Storage Drawers
