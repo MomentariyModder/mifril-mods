@@ -1,3 +1,32 @@
+# Обновление 1.9
+
+**Добавлены следующие моды:**
+- Barbeque's Delight
+- Butchery
+- Cloth Config v10 API
+- Cuisine Delight
+- Delightful
+- Enhanced Falling Trees
+- Fruits Delight
+- Miner's Delight
+- My Nether's Delight
+- Ocean's Delight
+- Vein Mining
+
+**Обновлены следующие моды:**
+- Framework
+- Moonlight Library
+- Reeves Furniture
+- Sophisticated Backpacks
+- Sophisticated Core
+- Storage Drawers
+- Supplementaries
+- Unusual End
+
+**Удалены следующие моды:**
+- Panda's Falling Tree's
+- PandaLib
+
 # Обновление 1.8.1
 **Добавлены следующие моды:**
 - Bookshelf
