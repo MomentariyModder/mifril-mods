@@ -1,4 +1,4 @@
-# Список модов (1.8.1)
+# Список модов (1.9)
 
 - AppleSkin
 - Architectury
@@ -6,27 +6,34 @@
 - Awesome dungeon edition ocean
 - Awesome dungeon nether
 - Awesome dungeon the end
+- Barbeque's Delight
 - Bookshelf
 - Born in Chaos 
+- Butcher
 - Call of Yucatán
 - Carry On
+- Cloth Config v10 API
 - Controllable
 - Corail Woodcutter
 - CorgiLib
 - CosmeticArmorReworked
 - Creeper Overhaul
+- Cuisine Delight
 - Curios API
 - CustomSkinLoader
+- Delightful
 - Embeddium
 - Emotecraft
 - EnchantmentDescriptions
 - Enderman Overhaul
 - Enhanced Celestials
+- Enhanced Falling Trees
 - Expanded Storage
 - Farmer's Delight
 - FarmersStructures
 - Framed Compacting Drawers
 - Framework
+- Fruits Delight
 - GeckoLib 4
 - GlitchCore
 - Immersive Aircraft
@@ -36,12 +43,13 @@
 - Journeymap
 - Just Enough Items
 - Library ferret
+- Miner's Delight
 - Moonlight Library
 - Moving Elevators
 - Mowzie's Mobs
+- My Nether's Delight
 - ObsidianUI
-- Panda's Falling Tree's
-- PandaLib
+- Ocean's Delight
 - Paraglider
 - Player Animator
 - Polymorph
@@ -68,5 +76,6 @@
 - Unusual End
 - Useful Backpacks
 - Variants & Ventures
+- Vein Mining
 - WI Zoom
 - Wildfire's Female Gender Mod
