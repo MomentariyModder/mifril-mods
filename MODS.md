@@ -1,4 +1,4 @@
-# Список модов (1.9)
+# Список модов (1.9.1)
 
 - AppleSkin
 - Architectury
@@ -13,15 +13,18 @@
 - Call of Yucatán
 - Carry On
 - Cloth Config v10 API
+- Comforts
 - Controllable
 - Corail Woodcutter
 - CorgiLib
+- CoroUtil
 - CosmeticArmorReworked
 - Creeper Overhaul
 - Cuisine Delight
 - Curios API
 - CustomSkinLoader
 - Delightful
+- Easier Sleeping
 - Embeddium
 - Emotecraft
 - EnchantmentDescriptions
@@ -29,6 +32,7 @@
 - Enhanced Celestials
 - Enhanced Falling Trees
 - Expanded Storage
+- Explorer's Compass
 - Farmer's Delight
 - FarmersStructures
 - Framed Compacting Drawers
@@ -61,13 +65,14 @@
 - Serene Seasons
 - Simple Voice Chat
 - Sit
+- Sky Villages
 - Sophisticated Backpacks
 - Sophisticated Core
 - Storage Drawers
 - SuperMartijn642's Config Library
 - SuperMartijn642's Core Lib
 - Supplementaries
-- The Boiled One
+- TerraBlender
 - The End of Herobrine
 - The Graveyard
 - Tom's Simple Storage Mod
@@ -75,7 +80,9 @@
 - U Team Core
 - Unusual End
 - Useful Backpacks
-- Variants & Ventures
 - Vein Mining
 - WI Zoom
+- What Are They Up To
 - Wildfire's Female Gender Mod
+- YUNG's API
+- YUNG's Cave Biomes
