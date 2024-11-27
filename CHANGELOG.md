@@ -1,5 +1,31 @@
-# Обновление 1.9
+# Обновление 1.9.1
+**Добавлены следующие моды:**
+- Comforts
+- CoroUtil
+- Easier Sleeping
+- Explorer's Compass
+- Sky Villages
+- TerraBlender
+- What Are They Up To
+- YUNG's API
+- YUNG's Cave Biomes
 
+**Обновлены следующие моды:**
+- Butchery
+- Moonlight Library
+- Sophisticated Backpacks
+- Sophisticated Core
+- Supplementaries
+- Unusual End
+
+**Удалены следующие моды:**
+- The Boiled One (Всех уже заебал)
+- Variants & Ventures
+
+**Другие изменение:**
+- Изменено оформление чата
+
+# Обновление 1.9
 **Добавлены следующие моды:**
 - Barbeque's Delight
 - Butchery
